@@ -1,0 +1,1 @@
+Type: Deposit | Info: Money deposit | Time: 2020-11-06 18:11:33 | Current balance: 2800 | Amount: 200
